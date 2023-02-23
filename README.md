@@ -23,6 +23,8 @@ The script is best suited to run on the NAS itself and highly recommended. It ca
 6. On the Task Settings, set the Run command to : `bash /path/to/synology_snmp.sh /path/to/output.json`
 7. On the Schedule:
 
+<ul><ul><ul><ul><ul>
+  
 | <!-- -->  | <!-- --> |
 | --: | -- |
 | Run on the following days | `Daily`|
@@ -30,4 +32,6 @@ The script is best suited to run on the NAS itself and highly recommended. It ca
 | Frequency |  `Every minute` |
 | Last run time | `23:59` |
 
-**NOTE:** *The frequency of times it runs within that minute is defined in the script itself*
+</ul></ul></ul></ul></ul>
+
+> **NOTE:** *The frequency of times it runs within that minute is defined in the script itself*
