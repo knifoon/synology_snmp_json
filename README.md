@@ -23,7 +23,7 @@ The script is best suited to run on the NAS itself and highly recommended. It ca
 6. On the Task Settings, set the Run command to : `bash /path/to/syno_json.sh /path/to/output.json`
 7. On the Schedule:
 
-<ul><ul><ul><ul><ul>
+<div>
   
 | <!-- -->  | <!-- --> |
 | --: | -- |
@@ -32,6 +32,6 @@ The script is best suited to run on the NAS itself and highly recommended. It ca
 | Frequency |  `Every minute` |
 | Last run time | `23:59` |
 
-</ul></ul></ul></ul></ul>
+</div>
 
 > **NOTE:** *The frequency of times it runs within that minute is defined in the script itself*
